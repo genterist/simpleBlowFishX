@@ -4,7 +4,7 @@
  Author      : TamNguyen
  Version     :
  Copyright   : (CC)
- Description : Hello World in C, Ansi-style
+ Description : 
  ============================================================================
  */
 
